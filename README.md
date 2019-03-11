@@ -6,7 +6,7 @@ Una vez instalado debemos introducir las zonas de las paginas webs(Lo mas recome
 <br/>
 **La zona inversa no funciona.** <br/>
 
-Ahora debemos cambian el archivo named.conf.options y cambiar el forwarders a los siguientes
+Ahora debemos cambian el archivo named.conf.options y cambiar el forwarders a los siguientes<br/>
 ###Forwarders
 ![imagen de los forwarders](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/forwarders.JPG)
 <br/>
