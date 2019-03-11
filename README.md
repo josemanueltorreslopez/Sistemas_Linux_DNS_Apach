@@ -7,19 +7,19 @@ Una vez instalado debemos introducir las zonas de las paginas webs(Lo mas recome
 **La zona inversa no funciona.** <br/>
 
 Ahora debemos cambian el archivo named.conf.options y cambiar el forwarders a los siguientes<br/>
-###Forwarders
+### Forwarders
 ![imagen de los forwarders](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/forwarders.JPG)
 <br/>
 
 Ahora debemos crear los archivos rd para cada una de las paginas que queremos implementar. Lo que haremos sera copiar el archivo db.local con un nuevo nombre para que no tengamos ningun problema.
 
-Esta es el rd de gato.com
-###rd.gato.com
+Esta es el rd de gato.com <br/>
+### rd.gato.com
 ![imagen del rd de gato.com](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/gato.JPG)
 <br/>
 
-Esta es el rd de mosquito.com
-###rd.mosquito.com
+Esta es el rd de mosquito.com 
+### rd.mosquito.com
 ![imagen del rd de mosquito.com](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/mosquito.JPG)
 <br/>
 
