@@ -193,3 +193,44 @@ De nuevo nos pide un usuario, pero esta pagina web tiene 2 usuarios
 ![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/segundoUsuario.JPG)
 
 ![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/paginaChip555.JPG)
+
+
+# Ejercicio FTP
+
+## RAID_0
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/RAID0.JPG)
+
+## RAID_5 
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/RADI5.JPG)
+
+## Zonas
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/zonas.PNG)
+
+## Forwarders
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/fordwarders.PNG)
+
+## RD de las Paginas
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/rdSitioA.JPG)
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/rdSitioB.JPG)
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/rdSitioC.JPG)
+
+## VirtualHost de las Paginas
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/virtualHostSitioa.PNG)
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/virtualHostSitiob.PNG)
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/virtualHostSitioc.PNG)
+
+## Comprobacion de las Paginas
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/Comprobacion.JPG)
+
+## Paginas Funcionando
+
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/navegadorSitioa.PNG)
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/navegadorSitiob.PNG)
+![Pagina web www.chip555.org](https://github.com/josemanueltorreslopez/Sistemas_Linux_DNS_Apach/blob/master/navegadorSitioc.PNG)
